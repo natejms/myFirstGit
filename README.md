@@ -5,7 +5,7 @@ This is Software Frameworks Workshop 2 - Git Version Control. Working with git t
 1. Clone the github repository using SSH with `git clone git@github.com:natejms/myFirstGit.git`
 2. Initialise and install dependencies with `npm install`
 ## Run Instructions
-To run the project use `npm run start`
+Run the project using `npm run start`
 ## Course Content
 | Week        | Lecture + Workshop Content  |
 | :------------- |:-------------|
